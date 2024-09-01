@@ -75,3 +75,4 @@ $$
 
 1. Use of quantum annealing to discover the optimised state instead of gate-based circuits.
 2. Implementation of CNN in Quantum
+3. Use classical methods to calculate spines and quantum to parallelize the process.
